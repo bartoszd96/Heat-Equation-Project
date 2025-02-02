@@ -1,0 +1,9 @@
+Grzejnik (https://polskiegrzejniki.pl/2399-grzejnik-pokojowy-panelowy-cv22-600x600-bialy-1004w.html?cd=20011361973&ad=&kd=&cga=pmgp&gad_source=1&gclid=CjwKCAiAqfe8BhBwEiwAsne6gYCpeO2wB0e6Z48LiFAmzG8FImrPnp969bbB5RjPQD6_y_P7lncd2xoCLSQQAvD_BwE)
+
+Temperatura - https://www.meteoblue.com/pl/pogoda/archive/export
+
+Gęstość powietrza - https://pl.wikipedia.org/wiki/G%C4%99sto%C5%9B%C4%87_powietrza
+
+Ciepło właściwe - https://pl.wikipedia.org/wiki/Ciep%C5%82o_w%C5%82a%C5%9Bciwe
+
+Współczynnik przewodnictwa cieplnego - https://en.wikipedia.org/wiki/Thermal_conductivity_and_resistivity
